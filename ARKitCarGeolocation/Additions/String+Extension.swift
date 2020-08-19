@@ -2,8 +2,8 @@
 //  String+Extension.swift
 //  ARKitCarGeolocation
 //
-//  Created by Esteban Herrera on 11/23/17.
-//  Copyright © 2017 Esteban Herrera. All rights reserved.
+//  Created by Shreeniket Bendre on 8/15/20.
+//  Copyright © 2020 Shreeniket Bendre. All rights reserved.
 //
 
 import UIKit
