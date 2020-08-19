@@ -8,7 +8,7 @@
 4) Press "Clone an existing project"
 5) Paste from clipboard
 6) Hit Clone
-7) *Note: GPS Capibilites require another device to transmit location to iPhone, this can be done using a variety of ways*
+7) *Note: GPS Capibilites require another device to transmit location to iPhone, this can be done using a variety of ways, an easy way would be to use another cell phone*
 
 ## Demo
 
